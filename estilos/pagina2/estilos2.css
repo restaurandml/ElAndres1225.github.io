@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+}
+.encabezado{
+    background-color: blueviolet;
+    margin: 10px auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.titulo{
+    color: white;
+    position: relative;
+    left: 700px;
+}
+.menu a{
+    color: white;
+}
+.contenido{
+    background-color: darkred;
+    color: white;
+    margin: 10px auto;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+.pie{
+    background-color: cadetblue;
+    text-align: center;
+}
